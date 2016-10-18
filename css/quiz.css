@@ -1,0 +1,27 @@
+/*****
+CSS Rules 
+*********/
+
+body {
+	font-family: arial;
+
+}
+
+
+
+nav 
+	{
+		display : inline-block;
+		border-style: solid black;
+	}
+
+header {
+	width : 100%;
+	border-color: black solid;
+}
+
+
+
+footer {
+	position: center;
+}
